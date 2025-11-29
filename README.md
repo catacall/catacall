@@ -142,4 +142,17 @@
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,6E44FF,B026FF&height=100&section=footer" width="100%"/>
 
+<h2 align="center">🐍 <span style="color:#6E44FF">Contribution Spirit</span></h2>
+<div align="center">
+  <a href="https://github.com/VenomAnas/VenomAnas/generate">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venomanas/Venomanas/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venomanas/Venomanas/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Venomanas/Venomanas/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
+</div>
+
+<br/>
+
 </div>
