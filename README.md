@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,6E44FF,B026FF&height=280&section=header&text=Anas%20(अनस)&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20Digital%20Realm&descSize=20&descAlignY=65&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,6E44FF,B026FF&height=280&section=header&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20Digital%20Realm&descSize=20&descAlignY=65&descAlign=50" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A6E3A1&center=true&vCenter=true&width=600&lines=Full-Stack+Sorcerer+🧙‍♂️;Building+Digital+Farms+🌾;Open+Source+Ronin+⚔️;Next.js+%26+TypeScript+Main+⚡" alt="Typing SVG" />
@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxeXJ6YnJ6YnJ6YnJ6YnJ6YnJ6YnJ6YnJ6YnJ6YnJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="100" />
   <br/>
-  <i>"I have no enemies."</i>
   <br/>
   <b>"Peace comes from building farms 🧑‍🌾, not from swinging swords ⚔️"</b>
   <br/>
