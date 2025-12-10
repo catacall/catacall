@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anas%20Sayed&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anas%20Sayyed&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=55&descSize=18" />
 
 </div>
 
@@ -34,8 +34,8 @@ const anas = {
 - 🌱 Learning **advanced TypeScript patterns** and **system design**
 - 💡 Passionate about **clean code** and **user experience**
 - 🎨 Love creating **pixel-perfect interfaces** that users enjoy
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed
-- 📫 Reach me: **saypab@12607271**
+- ⚡ Fun fact: I debug with console.log and I'm not ashamed to be a vibe coder
+- 📫 Reach me: **anassayyed000@gmail.com**
 
 <br clear="right"/>
 
