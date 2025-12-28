@@ -72,6 +72,8 @@ const anas = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### Used Tools 
+CSS3 C C++ Java HTML5 GraphQL JavaScript Python TypeScript Vercel Linode Netlify Firebase Google Cloud EJS Express.js FastAPI Fastify Next JS NodeJS NPM JWT Nodemon React React Query React Router React Hook Form Vite Vue.js TailwindCSS Nginx Apache Appwrite Supabase MongoDB Firebase Canva Dribbble Framer Git GitHub GitHub Actions Riot Games Epic Games Postman Portfolio Cisco ESLint Docker
 </div>
 
 ---
