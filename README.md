@@ -26,16 +26,16 @@ const anas = {
 
 ---
 
-## 🎯 About Me
+## 💫 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently building **modern web applications** with Next.js
-- 🌱 Learning **advanced TypeScript patterns** and **system design**
-- 💡 Passionate about **clean code** and **user experience**
-- 🎨 Love creating **pixel-perfect interfaces** that users enjoy
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed to be a vibe coder
-- 📫 Reach me: **anassayyed000@gmail.com**
+- 🔭 Currently building modern web applications with Next.js
+- 🌱 Learning advanced TypeScript patterns and system design
+- 💡 Passionate about clean code and user experience
+- 🎨 Love creating pixel-perfect interfaces that users enjoy
+- ⚡ Fun fact: I debug with console.log and I’m not ashamed
+- 📫 Reach me: anassayyed000@gmail.com
 
 <br clear="right"/>
 
