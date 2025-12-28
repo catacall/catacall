@@ -166,15 +166,6 @@ Explore my complete portfolio of web applications, tools, and experiments. Alway
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenomAnas&theme=radical" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VenomAnas&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
 ---
 
 ## 📈 Contribution Graph
