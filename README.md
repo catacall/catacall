@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" justify-items="center">
   
 ```javascript
 const anas = {
