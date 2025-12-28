@@ -24,7 +24,6 @@ const anas = {
 
 </div>
 
----
 
 ## 💫 About Me
 
@@ -154,12 +153,16 @@ Explore my complete portfolio of web applications, tools, and experiments. Alway
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenomAnas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E44FF&icon_color=B026FF&text_color=C9D1D9&count_private=true" />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VenomAnas&theme=radical&hide_border=true&background=0D1117&stroke=6E44FF&ring=6E44FF&fire=B026FF&currStreakLabel=B026FF" />
 </div>
 
 <div align="center">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenomAnas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E44FF&text_color=C9D1D9&langs_count=8" />
+  
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VenomAnas&theme=react-dark&hide_border=true&bg_color=0D1117&color=6E44FF&line=B026FF&point=FFFFFF" />
 </div>
 
@@ -172,25 +175,6 @@ Explore my complete portfolio of web applications, tools, and experiments. Alway
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VenomAnas&bg_color=0d1117&color=6e44ff&line=b026ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 💻 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  
-```text
-TypeScript   ████████████████░░░░░   65%
-JavaScript   ████████░░░░░░░░░░░░░   32%
-Python       ██░░░░░░░░░░░░░░░░░░░   08%
-CSS          ███░░░░░░░░░░░░░░░░░░   12%
-HTML         ██░░░░░░░░░░░░░░░░░░░   09%
-```
-
 </div>
 
 ---
