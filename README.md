@@ -4,15 +4,14 @@ Information Technology graduate focused on web engineering. I build intuitive fr
 
 ---
 
-## 🛠️ What I Do
+# 🛠️ What I Do
 
 - **Frontend** — Next.js, React, TypeScript, Tailwind CSS
 - **Backend** — Node.js, Express, REST & GraphQL APIs
 - **Deployment** — AWS, Vercel, Cloudflare, Google Cloud
-
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
