@@ -74,5 +74,3 @@ Information Technology graduate focused on web engineering. I build intuitive fr
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=catacall&color=0)
