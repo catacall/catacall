@@ -1,16 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catacall/README/main/fra.png" alt="Banner" width="100%" />
-</p>
 
-<h1 align="center">Hi, I'm Anas Sayyed 👋</h1>
+
+<h1 align="center">Supp, Anas here </h1>
 
 <p align="center">
-  Full Stack Developer focused on building scalable web applications,
-  interactive experiences, and clean user-first products.
+  Creating Art from Paint to Digital Canvas
 </p>
 
 <p align="center">
-  I enjoy creating performant systems with simple architecture,
+  creating performant systems with architecture,
   intuitive UI, and maintainable code.
 </p>
 
@@ -43,23 +40,5 @@
 
 ---
 
-## 💡 What I Build
-
-- Full-stack web applications  
-- Interactive user experiences  
-- Responsive UI systems  
-- API integrations  
-- Scalable backend architecture  
-- Clean & maintainable codebases
-
----
-
-## 📌 Current Focus
-
-- Improving full-stack architecture  
-- Building production-ready apps  
-- Learning better system design  
-- Exploring DevOps & scalability
-
----
+Learning new new learnings
 
