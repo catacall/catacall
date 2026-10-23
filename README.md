@@ -14,4 +14,4 @@
 
 - **Portfolio:** [yourportfolio.com](https://port-folio-smoky-kappa.vercel.app/))
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/anas-sayyed-amigo3)
-- **Email:** anassayyed0002gmail.com
+- **Email:** [email](anassayyed000@gmail.com)
