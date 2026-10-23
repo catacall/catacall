@@ -1,44 +1,17 @@
-
-
-<h1 align="center">Supp, Anas here </h1>
-
-<p align="center">
-  Creating Art from Paint to Digital Canvas
-</p>
-
-<p align="center">
-  creating performant systems with architecture,
-  intuitive UI, and maintainable code.
-</p>
+# Hello world I'm Anas Sayyed 
 
 ---
 
-## 🚀 Tech Stack
+### Focus & Work
 
-<p align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c,js,ts,html,css" />
-<br><br>
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,svelte,threejs" />
-<br><br>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase,fastapi" />
-<br><br>
-
-<!-- Database -->
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-<br><br>
-
-<!-- DevOps / Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,postman,figma" />
-
-</p>
+- Building production-ready full-stack applications with an emphasis on system design and clean code.
+- Implementing modern security practices, state management, and optimized database queries.
+- Currently exploring advanced distributed system patterns and AI integration.
 
 ---
 
-Learning new new learnings
+### Connect
 
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/anas-sayyed-amigo3)
+- **Email:** your.email@domain.com
