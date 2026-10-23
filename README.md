@@ -12,6 +12,6 @@
 
 ### Connect
 
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Portfolio:** [yourportfolio.com](https://port-folio-smoky-kappa.vercel.app/))
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/anas-sayyed-amigo3)
-- **Email:** your.email@domain.com
+- **Email:** anassayyed0002gmail.com
